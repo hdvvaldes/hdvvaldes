@@ -16,5 +16,5 @@ I'm a sophomore studying computer science at the National Autonomous Univeristy 
   - [Likendin](www.linkedin.com/in/hector-valdes-56b076316).
   - [Email](hdvvaldes@gmail.com).
 
-You can contact me anytime and ask me anything, I'm open to abosrb knowledeg and build great projects 🌎.
+You can contact me anytime and ask me anything, I'm open to abosrb knowledge and build great projects 🌎.
   
