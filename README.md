@@ -13,8 +13,8 @@ I'm a sophomore studying computer science at the National Autonomous Univeristy 
   - Studying mandarin 🙇‍♂️
 
 # How to reach me
-  - [Likendin] (www.linkedin.com/in/hector-valdes-56b076316)
-  - [Email] (hdvvaldes@gmail.com)
+  - [Likendin](www.linkedin.com/in/hector-valdes-56b076316).
+  - [Email](hdvvaldes@gmail.com).
 
 You can contact me anytime and ask me anything, I'm open to abosrb knowledeg and build great projects 🌎.
   
